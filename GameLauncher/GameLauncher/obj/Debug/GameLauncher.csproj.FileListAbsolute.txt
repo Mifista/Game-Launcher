@@ -1,0 +1,12 @@
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\bin\Debug\GameLauncher.exe.config
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\bin\Debug\GameLauncher.exe
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\bin\Debug\GameLauncher.pdb
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.csprojAssemblyReference.cache
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.Properties.Resources.resources
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.csproj.GenerateResource.cache
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.csproj.CoreCompileInputs.cache
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.exe
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.pdb
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.Warning.resources
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.Login_Form.resources
+C:\CSharp\GLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.Launcher.resources
